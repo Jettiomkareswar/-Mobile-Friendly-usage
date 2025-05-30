@@ -1,0 +1,11 @@
+<section id="services">
+  <h2>Services</h2>
+  <p>Below are the services I explore and practice as part of my web development learning:</p>
+  <ul>
+    <li>✅ Responsive Web Design using HTML & CSS</li>
+    <li>✅ Mobile-Friendly Layouts with Media Queries</li>
+    <li>✅ Flexbox and Grid-Based Layout Techniques</li>
+    <li>✅ Basic Navigation Menus and Page Structure</li>
+    <li>✅ Testing and Debugging with Chrome DevTools</li>
+  </ul>
+</section>
